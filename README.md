@@ -1,6 +1,23 @@
 # amplify-react-boilerplate
 A boilerplate on top of AWS Amplify and ReactJS
 
+# Dependencies
+
+To use this BoilerPlate you need Amplify CLI BETA (support for multiple environments)
+
+Install it:
+
+### `npm install -g @aws-amplify/cli@multienv`
+
+Check it worked:
+
+`amplify --version
+0.2.1-multienv.6`
+
+## Workflow
+
+Because this project is  based on Amplify CLI multienv, we recommend using [this workflow](https://aws-amplify.github.io/docs/cli/multienv?sdk=js)
+
 ## How to use the Framework ?
 
 You can Fork the project or clone it and add your own remote.
