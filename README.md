@@ -32,4 +32,4 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ## How to participate to the Framework development ?
 
-See [Developer Documentation] (documentation/CONTRIBUTING.md)
+See [Developer Documentation](documentation/CONTRIBUTING.md)
