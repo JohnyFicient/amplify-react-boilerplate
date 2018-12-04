@@ -1,0 +1,14 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplifyboilerplate-20181204121403-authRole",
+            "UnauthRoleArn": "arn:aws:iam::533574387031:role/amplifyboilerplate-20181204121403-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::533574387031:role/amplifyboilerplate-20181204121403-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "amplifyboilerplate-20181204121403-deployment",
+            "UnauthRoleName": "amplifyboilerplate-20181204121403-unauthRole",
+            "StackName": "amplifyboilerplate-20181204121403",
+            "StackId": "arn:aws:cloudformation:us-west-2:533574387031:stack/amplifyboilerplate-20181204121403/25723ea0-f801-11e8-b5c8-503ac9316835"
+        }
+    }
+}
