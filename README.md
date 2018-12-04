@@ -1,9 +1,11 @@
 # amplify-react-boilerplate
 A boilerplate on top of AWS Amplify and ReactJS
 
-## Available Scripts
+## How to use the Framework ?
 
-In the project directory, you can run:
+You can Fork the project or clone it and add your own remote.
+
+Once the setup is done, in the project directory, you can run:
 
 ### `npm start`
 
@@ -28,3 +30,6 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+## How to participate to the Framework development ?
+
+See [Developer Documentation] (documentation/CONTRIBUTING.md)
