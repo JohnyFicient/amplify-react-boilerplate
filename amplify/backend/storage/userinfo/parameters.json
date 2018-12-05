@@ -1,0 +1,5 @@
+{
+    "tableName": "userinfo-dev",
+    "partitionKeyName": "sessionId",
+    "partitionKeyType": "S"
+}

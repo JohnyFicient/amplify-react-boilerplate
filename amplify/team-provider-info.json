@@ -9,6 +9,11 @@
             "UnauthRoleName": "amplifyboilerplate-20181204121403-unauthRole",
             "StackName": "amplifyboilerplate-20181204121403",
             "StackId": "arn:aws:cloudformation:us-west-2:533574387031:stack/amplifyboilerplate-20181204121403/25723ea0-f801-11e8-b5c8-503ac9316835"
+        },
+        "categories": {
+            "auth": {
+                "cognitopool": {}
+            }
         }
     },
     "demo": {

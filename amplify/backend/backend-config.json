@@ -1,1 +1,24 @@
-{}
+{
+	"auth": {
+		"cognitopool": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation"
+		}
+	},
+	"storage": {
+		"s3storage": {
+			"service": "S3",
+			"providerPlugin": "awscloudformation"
+		},
+		"userinfo": {
+			"service": "DynamoDB",
+			"providerPlugin": "awscloudformation"
+		}
+	},
+	"analytics": {
+		"amplifyboilerplateDev": {
+			"service": "Pinpoint",
+			"providerPlugin": "awscloudformation"
+		}
+	}
+}

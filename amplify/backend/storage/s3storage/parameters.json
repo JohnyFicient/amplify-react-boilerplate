@@ -1,0 +1,13 @@
+{
+    "bucketName": "amplifyboilerplate05328efe360a4c05b87955a80cb460b5",
+    "authPolicyName": "s3_amplify_df2e099f",
+    "unauthPolicyName": "s3_amplify_df2e099f",
+    "authRoleName": {
+        "Ref": "AuthRoleName"
+    },
+    "unauthRoleName": {
+        "Ref": "UnauthRoleName"
+    },
+    "authPermissions": "rw",
+    "unauthPermissions": "rw"
+}
